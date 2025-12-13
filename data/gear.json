@@ -1,0 +1,129 @@
+{
+  "seasons": {
+    "spring": {
+      "name": "Spring (April - May)",
+      "temperature": "-5°C to 15°C",
+      "conditions": "Warming but unpredictable. Possible late snow.",
+      "recommended": true
+    },
+    "summer": {
+      "name": "Summer (June - September)",
+      "temperature": "5°C to 20°C",
+      "conditions": "Monsoon season. Wet conditions, potential flooding. July-August most challenging.",
+      "recommended": false
+    },
+    "autumn": {
+      "name": "Autumn (September - October)",
+      "temperature": "-10°C to 15°C",
+      "conditions": "Clear skies, stable weather. Best visibility. Crowds from Saga Dawa have dispersed.",
+      "recommended": true
+    },
+    "winter": {
+      "name": "Winter (November - March)",
+      "temperature": "-25°C to 0°C",
+      "conditions": "Extreme cold. Many areas inaccessible. Dolma La often snow-blocked.",
+      "recommended": false
+    }
+  },
+  "categories": [
+    {
+      "name": "Clothing",
+      "icon": "shirt",
+      "items": [
+        { "name": "Base layers (moisture-wicking)", "essential": true, "quantity": "2-3 sets" },
+        { "name": "Insulating mid-layer (fleece/down)", "essential": true, "quantity": "1-2" },
+        { "name": "Waterproof outer shell jacket", "essential": true, "quantity": "1" },
+        { "name": "Waterproof pants", "essential": true, "quantity": "1" },
+        { "name": "Down jacket (for cold nights)", "essential": true, "quantity": "1" },
+        { "name": "Trekking pants (convertible)", "essential": true, "quantity": "2" },
+        { "name": "Thermal underwear", "essential": true, "quantity": "2 sets" },
+        { "name": "Warm hat/beanie", "essential": true, "quantity": "1-2" },
+        { "name": "Sun hat with brim", "essential": true, "quantity": "1" },
+        { "name": "Warm gloves (layered)", "essential": true, "quantity": "2 pairs" },
+        { "name": "Warm socks (wool/synthetic)", "essential": true, "quantity": "4-5 pairs" },
+        { "name": "Neck gaiter/buff", "essential": false, "quantity": "1-2" }
+      ]
+    },
+    {
+      "name": "Footwear",
+      "icon": "footprints",
+      "items": [
+        { "name": "Waterproof trekking boots (broken in)", "essential": true, "quantity": "1 pair" },
+        { "name": "Camp shoes/sandals", "essential": false, "quantity": "1 pair" },
+        { "name": "Gaiters", "essential": false, "quantity": "1 pair" }
+      ]
+    },
+    {
+      "name": "Backpack & Bags",
+      "icon": "backpack",
+      "items": [
+        { "name": "Daypack (30-40L)", "essential": true, "quantity": "1" },
+        { "name": "Large duffel (for porters)", "essential": true, "quantity": "1" },
+        { "name": "Dry bags/pack liners", "essential": true, "quantity": "2-3" },
+        { "name": "Rain cover for pack", "essential": true, "quantity": "1" }
+      ]
+    },
+    {
+      "name": "Sleeping",
+      "icon": "tent",
+      "items": [
+        { "name": "Sleeping bag (-15°C to -20°C rated)", "essential": true, "quantity": "1" },
+        { "name": "Sleeping bag liner", "essential": false, "quantity": "1" },
+        { "name": "Inflatable sleeping pad", "essential": true, "quantity": "1" }
+      ]
+    },
+    {
+      "name": "Trekking Equipment",
+      "icon": "mountain",
+      "items": [
+        { "name": "Trekking poles (adjustable)", "essential": true, "quantity": "1 pair" },
+        { "name": "Headlamp with extra batteries", "essential": true, "quantity": "1" },
+        { "name": "Sunglasses (UV protection, category 3-4)", "essential": true, "quantity": "1" },
+        { "name": "Water bottles (1L each)", "essential": true, "quantity": "2" },
+        { "name": "Water purification (tablets/filter)", "essential": true, "quantity": "1 system" }
+      ]
+    },
+    {
+      "name": "Health & Safety",
+      "icon": "heart-pulse",
+      "items": [
+        { "name": "First aid kit", "essential": true, "quantity": "1" },
+        { "name": "Altitude medication (Diamox)", "essential": true, "quantity": "As prescribed" },
+        { "name": "Painkillers (ibuprofen, paracetamol)", "essential": true, "quantity": "1 box each" },
+        { "name": "Sunscreen (SPF 50+)", "essential": true, "quantity": "2 bottles" },
+        { "name": "Lip balm with SPF", "essential": true, "quantity": "2-3" },
+        { "name": "Blister treatment kit", "essential": true, "quantity": "1" },
+        { "name": "Hand sanitizer", "essential": true, "quantity": "2" },
+        { "name": "Personal medications", "essential": true, "quantity": "As needed" },
+        { "name": "Emergency whistle", "essential": true, "quantity": "1" }
+      ]
+    },
+    {
+      "name": "Documents & Essentials",
+      "icon": "file-text",
+      "items": [
+        { "name": "Passport (valid 6+ months)", "essential": true, "quantity": "1" },
+        { "name": "Chinese visa", "essential": true, "quantity": "1" },
+        { "name": "Tibet Travel Permit", "essential": true, "quantity": "1" },
+        { "name": "Alien Travel Permit", "essential": true, "quantity": "1" },
+        { "name": "Passport photos", "essential": true, "quantity": "6-8" },
+        { "name": "Travel insurance documents", "essential": true, "quantity": "1 copy" },
+        { "name": "Cash (Chinese Yuan)", "essential": true, "quantity": "Sufficient amount" },
+        { "name": "Photocopies of all documents", "essential": true, "quantity": "2 sets" }
+      ]
+    },
+    {
+      "name": "Optional Extras",
+      "icon": "sparkles",
+      "items": [
+        { "name": "Camera with extra batteries", "essential": false, "quantity": "1" },
+        { "name": "Power bank", "essential": false, "quantity": "1-2" },
+        { "name": "Binoculars", "essential": false, "quantity": "1" },
+        { "name": "Journal and pen", "essential": false, "quantity": "1" },
+        { "name": "Prayer flags/offerings", "essential": false, "quantity": "As desired" },
+        { "name": "Earplugs", "essential": false, "quantity": "2-3 pairs" },
+        { "name": "Snacks (energy bars, nuts)", "essential": false, "quantity": "Several" }
+      ]
+    }
+  ]
+}

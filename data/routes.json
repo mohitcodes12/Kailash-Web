@@ -1,0 +1,79 @@
+{
+  "outerKora": {
+    "title": "Outer Kora (Parikrama)",
+    "description": "The sacred circumambulation around Mount Kailash, one of the most spiritually significant pilgrimages in the world.",
+    "distance": "52 km (32 miles)",
+    "duration": "3 days (typically)",
+    "difficulty": "Challenging",
+    "elevation": {
+      "start": "4,575 m (15,010 ft)",
+      "highest": "5,630 m (18,471 ft) - Dolma La Pass",
+      "end": "4,575 m (15,010 ft)"
+    },
+    "days": [
+      {
+        "day": 1,
+        "title": "Darchen to Dirapuk",
+        "distance": "20 km",
+        "duration": "7-8 hours",
+        "elevation": "4,575m to 5,080m",
+        "highlights": [
+          "Tarboche Flagpole",
+          "First glimpse of Kailash North Face",
+          "Chuku Monastery",
+          "Dirapuk Monastery"
+        ],
+        "description": "Begin at Darchen, passing the Tarboche flagpole where annual Saga Dawa festival occurs. Trek along the Lha Chu valley with stunning views of Kailash's magnificent north face."
+      },
+      {
+        "day": 2,
+        "title": "Dirapuk to Zutulpuk",
+        "distance": "18 km",
+        "duration": "8-10 hours",
+        "elevation": "5,080m to 5,630m to 4,790m",
+        "highlights": [
+          "Dolma La Pass crossing",
+          "Gauri Kund (sacred lake)",
+          "Shiva Tsal (sky burial ground)",
+          "Descent into Zutulpuk valley"
+        ],
+        "description": "The most challenging day, crossing the sacred Dolma La Pass at 5,630m. Pilgrims believe this represents death and rebirth. Descend past Gauri Kund, sacred to Hindus."
+      },
+      {
+        "day": 3,
+        "title": "Zutulpuk to Darchen",
+        "distance": "14 km",
+        "duration": "4-5 hours",
+        "elevation": "4,790m to 4,575m",
+        "highlights": [
+          "Zutulpuk Monastery",
+          "Milarepa meditation cave",
+          "Final views of Kailash",
+          "Return to Darchen"
+        ],
+        "description": "Easier day following the Zhong Chu river valley. Visit Zutulpuk Monastery with Milarepa's meditation cave. Complete the kora returning to Darchen."
+      }
+    ]
+  },
+  "innerKora": {
+    "title": "Inner Kora (Nandi Parikrama)",
+    "description": "A shorter, more intimate circuit closer to the mountain. Traditionally only attempted after completing 13 outer koras.",
+    "distance": "Approximately 22 km",
+    "duration": "1-2 days",
+    "difficulty": "Very challenging",
+    "note": "This route is rarely undertaken and requires special spiritual preparation according to tradition."
+  },
+  "lakeManasarovar": {
+    "title": "Lake Manasarovar Parikrama",
+    "description": "The sacred circumambulation of Lake Manasarovar, often combined with the Kailash Kora.",
+    "distance": "88 km (55 miles)",
+    "duration": "3-4 days",
+    "difficulty": "Moderate to Challenging",
+    "highlights": [
+      "Chiu Monastery",
+      "Hot springs at Thugolho",
+      "Multiple bathing ghats",
+      "Views of both Kailash and Gurla Mandhata"
+    ]
+  }
+}

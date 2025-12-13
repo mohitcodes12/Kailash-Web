@@ -1,0 +1,127 @@
+{
+  "overview": {
+    "title": "The Sacred Mountain",
+    "subtitle": "Spiritual Center of Four Great Religions",
+    "description": "Mount Kailash stands as one of the most sacred places on Earth, revered by over a billion people across four distinct religious traditions. Unlike mountains celebrated for conquest, Kailash draws pilgrims seeking spiritual transformation through devotion, not dominion."
+  },
+  "religions": [
+    {
+      "name": "Hinduism",
+      "title": "Abode of Lord Shiva",
+      "icon": "om",
+      "color": "#D97706",
+      "beliefs": [
+        "Kailash is identified as Mount Meru, the axis of the universe",
+        "Lord Shiva sits in eternal meditation at the summit with Goddess Parvati",
+        "The four faces of the mountain are made of crystal, ruby, gold, and lapis lazuli",
+        "The mountain represents the lingam, with Lake Manasarovar as the yoni—symbols of cosmic creation"
+      ],
+      "practices": [
+        "Parikrama (circumambulation) cleanses sins of lifetimes",
+        "Pilgrims often perform the journey on foot, some with full-body prostrations",
+        "Bathing in Lake Manasarovar purifies the soul",
+        "Many pilgrims carry sacred water home for ceremonies"
+      ],
+      "scriptures": [
+        "Vishnu Purana describes Meru as the center of the universe",
+        "Shiva Purana details Shiva's eternal presence on Kailash",
+        "Skanda Purana contains extensive descriptions of the sacred geography",
+        "Ramayana mentions Kailash as Shiva's celestial abode"
+      ]
+    },
+    {
+      "name": "Tibetan Buddhism",
+      "title": "Home of Buddha Demchok",
+      "icon": "dharma-wheel",
+      "color": "#DC2626",
+      "beliefs": [
+        "Kailash is the palace of Buddha Demchok (Chakrasamvara), embodying supreme bliss",
+        "The mountain represents the spiritual center of the Buddhist tantric tradition",
+        "Milarepa's victory here established Buddhism's spiritual authority",
+        "The landscape reflects the Buddhist mandala—a sacred cosmic diagram"
+      ],
+      "practices": [
+        "One kora erases sins of a lifetime",
+        "13 koras permit one to attempt the inner kora",
+        "108 koras can lead to enlightenment in this very life",
+        "Pilgrims leave prayer flags, perform mantras, and make prostrations"
+      ],
+      "scriptures": [
+        "Chakrasamvara Tantra describes the sacred landscape",
+        "Songs of Milarepa recount his spiritual contest at Kailash",
+        "Various Tibetan texts detail pilgrimage routes and spiritual practices"
+      ]
+    },
+    {
+      "name": "Jainism",
+      "title": "Ashtapada - Site of Liberation",
+      "icon": "hand",
+      "color": "#059669",
+      "beliefs": [
+        "Kailash is Ashtapada, where Rishabhadeva achieved moksha (liberation)",
+        "Rishabhadeva was the first of 24 Tirthankaras (spiritual teachers)",
+        "His grandson Bharata built a temple at the summit",
+        "The mountain marks the ultimate spiritual achievement"
+      ],
+      "practices": [
+        "Pilgrimage to Kailash is a lifetime spiritual goal",
+        "Jains circumambulate while reciting prayers and mantras",
+        "The journey represents the soul's path to liberation",
+        "Many Jains visit during auspicious calendar dates"
+      ],
+      "scriptures": [
+        "Jain Agamas describe Ashtapada's significance",
+        "Adipurana narrates Rishabhadeva's final journey",
+        "Various Digambara and Shvetambara texts reference the sacred site"
+      ]
+    },
+    {
+      "name": "Bon",
+      "title": "Seat of All Spiritual Power",
+      "icon": "spiral",
+      "color": "#7C3AED",
+      "beliefs": [
+        "Kailash is the sacred nine-story Swastika Mountain",
+        "Founder Tonpa Shenrab descended from heaven to Kailash",
+        "The mountain is the axis connecting heaven, earth, and underworld",
+        "Spiritual power emanates from Kailash to all directions"
+      ],
+      "practices": [
+        "Bon practitioners circumambulate counter-clockwise (opposite to other religions)",
+        "This direction honors the counter-clockwise swastika symbol of Bon",
+        "Pilgrims perform elaborate rituals at specific sacred sites",
+        "The journey reconnects practitioners with the source of spiritual power"
+      ],
+      "scriptures": [
+        "Bon texts describe Kailash as the original sacred mountain",
+        "Stories of Tonpa Shenrab detail the heavenly connection",
+        "Ancient Bon cosmology places Kailash at the universe's center"
+      ]
+    }
+  ],
+  "sharedBeliefs": {
+    "title": "Common Threads",
+    "points": [
+      {
+        "title": "Axis Mundi",
+        "description": "All four traditions view Kailash as the cosmic axis connecting heaven, earth, and the underworld—the spiritual center of existence."
+      },
+      {
+        "title": "Transformative Power",
+        "description": "Each tradition believes circumambulating Kailash purifies the soul and can lead to spiritual liberation or enlightenment."
+      },
+      {
+        "title": "Sacred Geography",
+        "description": "The mountain and surrounding lakes form a sacred landscape that mirrors cosmic patterns and divine geometries."
+      },
+      {
+        "title": "Prohibition of Climbing",
+        "description": "All traditions agree that Kailash should never be climbed—the mountain is meant for devotion, not conquest."
+      }
+    ]
+  },
+  "quote": {
+    "text": "Kailash is a place of pilgrimage, not a target for conquest. Those who come here seeking peaks to climb have missed its essence entirely.",
+    "author": "Traditional saying"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "categories": [
+    {
+      "name": "General Information",
+      "questions": [
+        {
+          "id": "height",
+          "question": "How tall is Mount Kailash?",
+          "answer": "Mount Kailash stands at 6,638 meters (21,778 feet) above sea level. While not the tallest peak in the region, its distinctive pyramidal shape and isolated position make it one of the most visually striking mountains in the world."
+        },
+        {
+          "id": "location",
+          "question": "Where is Mount Kailash located?",
+          "answer": "Mount Kailash is located in the remote southwestern corner of Tibet Autonomous Region, China, near the borders of India and Nepal. It lies approximately 80 kilometers north of the Himalayan range, within the Kailash Range of the Transhimalaya."
+        },
+        {
+          "id": "sacred",
+          "question": "Why is Mount Kailash sacred?",
+          "answer": "Mount Kailash is sacred to four religions: Hinduism (as the abode of Lord Shiva), Buddhism (as the home of Buddha Demchok), Jainism (where the first Tirthankara attained liberation), and Bon (as the seat of all spiritual power). It's considered the spiritual center of the universe by billions of people."
+        },
+        {
+          "id": "rivers",
+          "question": "What rivers originate near Mount Kailash?",
+          "answer": "The region around Mount Kailash is the source of four of Asia's longest rivers: the Indus (north), Sutlej (west), Brahmaputra (east, known as Yarlung Tsangpo in Tibet), and Karnali (south, a major tributary of the Ganges). This hydrological significance adds to its sacred status."
+        },
+        {
+          "id": "shape",
+          "question": "Why does Mount Kailash have such a unique shape?",
+          "answer": "Mount Kailash has a distinctive pyramidal shape with four near-symmetrical faces aligned to the cardinal directions. This is due to geological forces and erosion patterns. The mountain's horizontal striations and snow channels create a naturally symmetrical appearance, which has contributed to its spiritual significance across cultures."
+        },
+        {
+          "id": "manasarovar",
+          "question": "What is Lake Manasarovar?",
+          "answer": "Lake Manasarovar is a sacred freshwater lake located about 30 km southeast of Mount Kailash, at 4,590 meters altitude. It's one of the highest freshwater lakes in the world and is revered as the 'Lake of Consciousness' in Hindu tradition. Pilgrims often combine a visit to Manasarovar with the Kailash Kora, taking ritual baths in its pure waters."
+        },
+        {
+          "id": "weather",
+          "question": "What is the weather like at Mount Kailash?",
+          "answer": "Mount Kailash has a harsh high-altitude climate. Summer temperatures (May-September) range from -5°C to 15°C during the day, dropping below freezing at night. Winter (November-March) sees extreme cold, often -20°C to -30°C. The region experiences strong winds, sudden weather changes, intense UV radiation, and occasional snowfall even in summer months."
+        }
+      ]
+    },
+    {
+      "name": "Kora (Pilgrimage)",
+      "questions": [
+        {
+          "id": "kora-days",
+          "question": "How many days does Kailash Kora take?",
+          "answer": "The standard Kailash Kora (outer circumambulation) takes 3 days for most pilgrims, covering 52 kilometers. Day 1: Darchen to Dirapuk (20 km). Day 2: Dirapuk over Dolma La Pass to Zutulpuk (18 km) - the most challenging day. Day 3: Zutulpuk back to Darchen (14 km). Well-acclimatized trekkers sometimes complete it in 2 days, while devoted pilgrims performing prostrations may take 2-3 weeks."
+        },
+        {
+          "id": "kora-difficulty",
+          "question": "How difficult is the Kailash Kora?",
+          "answer": "The Kora is challenging due to high altitude (4,575m-5,630m), not technical difficulty. The main challenges are: crossing Dolma La Pass at 5,630m, altitude sickness risk, unpredictable weather, and limited facilities. Good physical fitness and proper acclimatization (at least 2-3 days in the region before starting) are essential."
+        },
+        {
+          "id": "kora-direction",
+          "question": "Which direction should I walk the Kora?",
+          "answer": "Hindus, Buddhists, and Jains walk clockwise (pradakshina), keeping the mountain on their right as a sign of respect. Bon practitioners walk counter-clockwise (anti-clockwise). The clockwise route is more common and better established with facilities."
+        },
+        {
+          "id": "best-time",
+          "question": "What is the best time to visit Mount Kailash?",
+          "answer": "The best times are: May-June (Saga Dawa festival period, good weather, busy with pilgrims) and September-October (clearest skies, fewer crowds, stable weather). Avoid July-August (monsoon, difficult conditions) and November-April (extreme cold, passes often blocked by snow)."
+        },
+        {
+          "id": "dolma-la",
+          "question": "What is Dolma La Pass?",
+          "answer": "Dolma La Pass is the highest point of the Kailash Kora at 5,630 meters (18,471 feet), located on Day 2 of the trek. Named after the Buddhist deity Tara (Dolma in Tibetan), it's considered the most spiritually significant and physically challenging section. Pilgrims leave offerings at the prayer flag-draped pass, and the descent includes visiting sacred Gauri Kund lake."
+        },
+        {
+          "id": "inner-kora",
+          "question": "What is the Inner Kora?",
+          "answer": "The Inner Kora (Nandi Parikrama) is a 34 km route closer to Mount Kailash's base, considered more sacred and challenging than the outer circuit. Only those who have completed 13 outer Koras are traditionally allowed to attempt it. The route passes through more remote terrain with minimal facilities and requires special permissions."
+        },
+        {
+          "id": "prostration",
+          "question": "What is prostration pilgrimage?",
+          "answer": "Some devoted pilgrims perform full-body prostrations for the entire 52 km Kora - lying face-down with arms outstretched, marking the spot, standing, taking a step to that mark, and repeating. This method takes 2-4 weeks to complete and is considered the most meritorious form of pilgrimage. Pilgrims wear protective gear including wooden hand-boards, leather aprons, and knee pads."
+        },
+        {
+          "id": "accommodation-kora",
+          "question": "Where do I stay during the Kora?",
+          "answer": "Accommodation along the Kora is basic: guesthouses and tea houses in Dirapuk and Zutulpuk offer simple rooms (sometimes dormitory-style) and hot meals. Facilities are rudimentary - expect no running water, pit toilets, and cold conditions. Some trekkers bring camping equipment as backup. Book through your tour operator, as individual arrangements aren't possible."
+        }
+      ]
+    },
+    {
+      "name": "Preparation & Gear",
+      "questions": [
+        {
+          "id": "pack-may",
+          "question": "What should I pack for May?",
+          "answer": "For May, pack: layered clothing (temperatures range -5°C to 15°C), waterproof shell jacket and pants, warm down jacket for evenings, broken-in waterproof trekking boots, sleeping bag rated to -15°C, sun protection (hat, sunscreen SPF50+, UV sunglasses), trekking poles, and altitude medication. May can have late snow, so be prepared for variable conditions."
+        },
+        {
+          "id": "altitude",
+          "question": "How do I prepare for the altitude?",
+          "answer": "Altitude preparation is crucial: 1) Spend 2-3 days acclimatizing in Lhasa (3,650m) before traveling to Kailash region. 2) Stay 1-2 nights in Darchen before starting the Kora. 3) Consider taking Diamox (acetazolamide) - consult your doctor before the trip. 4) Stay well hydrated, avoid alcohol, and don't rush. 5) Know the symptoms of altitude sickness: headache, nausea, fatigue, shortness of breath."
+        },
+        {
+          "id": "fitness",
+          "question": "What fitness level is required?",
+          "answer": "You need good cardiovascular fitness for the Kora. Prepare by: hiking at altitude if possible, regular cardio exercise (running, swimming, cycling) for 3-6 months before, stair climbing with a weighted backpack, and building leg strength. You don't need mountaineering skills - the Kora is a trek, not a climb. The main challenge is maintaining energy at high altitude over 3 days of walking."
+        },
+        {
+          "id": "medical",
+          "question": "What medical preparations should I make?",
+          "answer": "Essential medical preparations: 1) Consult your doctor 2-3 months before departure. 2) Get prescriptions for Diamox (altitude sickness), antibiotics, and any personal medications. 3) Ensure travel insurance covers high-altitude trekking up to 6,000m. 4) Pack a comprehensive first-aid kit including blister treatment, painkillers, anti-diarrheal medication, and rehydration salts. 5) Consider vaccinations for Hepatitis A/B, Typhoid, and ensure tetanus is current."
+        },
+        {
+          "id": "sleeping-bag",
+          "question": "Do I need to bring a sleeping bag?",
+          "answer": "Yes, a sleeping bag rated to at least -10°C to -15°C is essential. Guesthouses along the Kora provide beds but blankets may be insufficient for the cold nights. A quality sleeping bag ensures warmth and hygiene. Consider a sleeping bag liner for extra warmth and cleanliness. If traveling light, some tour operators rent sleeping bags, but bringing your own is recommended."
+        },
+        {
+          "id": "trekking-poles",
+          "question": "Are trekking poles necessary?",
+          "answer": "Trekking poles are highly recommended for the Kailash Kora. They provide stability on uneven terrain, reduce stress on knees during descents (especially from Dolma La Pass), help with balance in stream crossings, and can assist with breathing rhythm at high altitude. Adjustable, lightweight poles with shock absorption are ideal."
+        }
+      ]
+    },
+    {
+      "name": "Permits & Travel",
+      "questions": [
+        {
+          "id": "permits",
+          "question": "What permits do I need?",
+          "answer": "Foreign visitors need multiple permits: 1) Chinese Visa (obtain before travel). 2) Tibet Travel Permit (TTB Permit) - arranged through a registered tour agency. 3) Alien Travel Permit - obtained in Lhasa. 4) Military Permit for border areas. All permits except the Chinese visa must be arranged through a registered Tibetan tour operator - independent travel is not allowed."
+        },
+        {
+          "id": "independent",
+          "question": "Can I visit Mount Kailash independently?",
+          "answer": "No, independent travel to Mount Kailash is not permitted for foreign visitors. You must book through a registered Tibetan tour operator who will arrange all permits, transportation, guides, and accommodation. This regulation applies to all of the Tibet Autonomous Region for non-Chinese citizens."
+        },
+        {
+          "id": "cost",
+          "question": "How much does a Kailash pilgrimage cost?",
+          "answer": "A typical 15-day Kailash pilgrimage costs approximately $2,000-4,000 USD per person, including: permits and fees, transportation (flights, land cruisers), accommodation, guide and driver, most meals. This varies based on: group size, comfort level, and whether you fly or drive to Kailash region. Budget extra for tips, personal gear, and contingencies."
+        },
+        {
+          "id": "group-size",
+          "question": "Do I need to join a group tour?",
+          "answer": "While you must travel with a registered tour operator, some offer 'private tours' for individuals, couples, or small groups. Group tours (8-15 people) are more economical, typically costing $2,000-2,500 per person. Private tours offer more flexibility and personal attention but cost $3,000-4,000+ per person. Most operators require at least 2 people for a private tour."
+        },
+        {
+          "id": "getting-there",
+          "question": "How do I get to Mount Kailash?",
+          "answer": "The typical route is: 1) Fly to Lhasa, Tibet's capital. 2) Spend 2-3 days acclimatizing. 3) Either fly to Ali (Ngari) then drive 4-5 hours to Darchen, OR take a 4-day overland journey by land cruiser (better for acclimatization, more scenic). The overland route passes through stunning landscapes, monasteries, and allows gradual altitude adjustment."
+        },
+        {
+          "id": "visa",
+          "question": "How do I get a Tibet Travel Permit?",
+          "answer": "The Tibet Travel Permit (TTB) cannot be obtained individually - it must be arranged through a registered Tibetan tour operator. Process: 1) Book your tour at least 30 days before travel. 2) Send your passport copy and Chinese visa to the operator. 3) They apply for your TTB permit. 4) You receive the original permit before flying to Lhasa. Without this permit, you cannot board flights or trains to Tibet."
+        }
+      ]
+    },
+    {
+      "name": "Climbing & Access",
+      "questions": [
+        {
+          "id": "climb",
+          "question": "Can I climb Mount Kailash?",
+          "answer": "No. Climbing Mount Kailash is strictly prohibited and has never been permitted. The Chinese government officially bans all climbing attempts out of respect for the mountain's sacred status to Hinduism, Buddhism, Jainism, and Bon. Even legendary mountaineer Reinhold Messner refused permission when offered in 1981, stating that conquering the mountain would 'conquer something in people's souls.'"
+        },
+        {
+          "id": "climbed",
+          "question": "Has anyone ever climbed Mount Kailash?",
+          "answer": "No verified ascent of Mount Kailash has ever been recorded. While various myths and unsubstantiated claims exist, there is no credible evidence of any successful summit in human history. The mountain remains unclimbed—unique among the world's prominent peaks—preserved by religious reverence and official protection."
+        },
+        {
+          "id": "approach",
+          "question": "How close can I get to Mount Kailash?",
+          "answer": "During the Kora, you'll pass within a few kilometers of Kailash's faces. The closest approaches are: Dirapuk Monastery (north face views, ~7 km from summit), Dolma La Pass area, and several viewpoints along the trek. You can take stunning photographs but cannot approach the base or attempt any climbing."
+        },
+        {
+          "id": "photography",
+          "question": "Can I take photos of Mount Kailash?",
+          "answer": "Yes, photography is allowed and encouraged during the Kora and at viewpoints. The mountain's four faces offer spectacular photo opportunities, especially at sunrise and sunset. However, be respectful when photographing pilgrims, monasteries, and sacred sites - always ask permission first. Some monasteries may prohibit interior photography."
+        },
+        {
+          "id": "darchen",
+          "question": "What is Darchen?",
+          "answer": "Darchen (elevation 4,575m) is the base town for the Kailash Kora, located at the southern foot of Mount Kailash. This small settlement offers basic guesthouses, restaurants, shops selling trekking supplies, and medical facilities. Most pilgrims spend 1-2 nights here to acclimatize before starting the Kora. The town has a flagpole where the annual Saga Dawa festival begins."
+        }
+      ]
+    },
+    {
+      "name": "Spiritual Significance",
+      "questions": [
+        {
+          "id": "shiva",
+          "question": "Why do Hindus consider Kailash as Shiva's abode?",
+          "answer": "In Hindu tradition, Mount Kailash is Mount Meru—the axis mundi or center of the universe. Lord Shiva, the destroyer and transformer, meditates eternally atop Kailash with his consort Parvati. The mountain's four faces are said to be made of crystal (north), ruby (south), gold (east), and lapis lazuli (west). Pilgrims believe that circumambulating Kailash washes away sins accumulated over lifetimes."
+        },
+        {
+          "id": "buddhist",
+          "question": "What is the Buddhist significance of Kailash?",
+          "answer": "For Tibetan Buddhists, Kailash is the home of Buddha Demchok (Chakrasamvara), representing supreme bliss. The famous 11th-century story tells of the Buddhist yogi Milarepa defeating the Bon master Naro Bon-chung in a spiritual contest here, establishing Buddhism's presence at the mountain. Buddhists believe one circumambulation erases sins of a lifetime, while 108 koras can lead to enlightenment in this life."
+        },
+        {
+          "id": "jain",
+          "question": "What is Mount Kailash's importance in Jainism?",
+          "answer": "Jains know Kailash as Ashtapada, where their first Tirthankara, Rishabhadeva (also called Adinath), attained moksha—liberation from the cycle of rebirth. According to Jain texts, Rishabhadeva's grandson, Bharata Chakravartin, built a temple at the summit. The mountain represents the ultimate spiritual achievement in Jain tradition."
+        },
+        {
+          "id": "bon",
+          "question": "What is Kailash's significance in Bon religion?",
+          "answer": "In the ancient Bon religion of Tibet (which predates Buddhism), Mount Kailash is known as the 'Nine-Story Swastika Mountain,' the seat of all spiritual power and the soul of the Tibetan nation. Bon founder Tonpa Shenrab is said to have descended from heaven at Kailash. Bon practitioners circumambulate counter-clockwise, opposite to Buddhist and Hindu pilgrims."
+        },
+        {
+          "id": "108-koras",
+          "question": "Why do pilgrims complete 108 koras?",
+          "answer": "The number 108 is sacred in Hinduism and Buddhism: there are 108 beads on a mala (prayer beads), 108 Upanishads, 108 names of deities, and it represents the universe's wholeness. Completing 108 circumambulations of Kailash is believed to guarantee enlightenment in this lifetime. This epic undertaking typically takes several pilgrimage seasons to complete and requires extraordinary devotion."
+        },
+        {
+          "id": "saga-dawa",
+          "question": "What is the Saga Dawa festival?",
+          "answer": "Saga Dawa is the most auspicious time to complete the Kailash Kora, usually falling in May-June (15th day of the 4th lunar month). It celebrates Buddha's birth, enlightenment, and parinirvana (passing). Thousands of pilgrims gather at Darchen for the ceremonial raising of a giant flagpole wrapped in prayer flags. Merit from good deeds during this month is believed to be multiplied 100,000 times."
+        }
+      ]
+    }
+  ],
+  "aiPrompts": [
+    "How many days does Kailash Kora take?",
+    "What should I pack for May?",
+    "Why is Mount Kailash sacred?",
+    "Can I climb Mount Kailash?",
+    "What permits do I need to visit?",
+    "What is the best time to visit?",
+    "How difficult is the Kora trek?",
+    "Tell me about Dolma La Pass",
+    "What is Lake Manasarovar?",
+    "How do I prepare for altitude?",
+    "What is the Inner Kora?",
+    "Tell me about prostration pilgrimage"
+  ]
+}
