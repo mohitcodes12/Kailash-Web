@@ -1,36 +1,44 @@
-# Kailash Web 🌄
+# Kailash Web 🌄  
+### A modern frontend project inspired by Mount Kailash
 
-Kailash Web is a frontend-focused web project built around **Mount Kailash**, one of the most sacred and mysterious places in the world.  
-The goal of this project was to present important information in a clean, calm, and easy-to-navigate interface without overwhelming the user.
-
-This project was created mainly for **learning, practice, and portfolio showcase**, with a strong focus on UI structure, responsiveness, and real-world deployment.
+🔗 **Live Website:**  
+👉 https://kailash-web.vercel.app  
 
 ---
 
-## ✨ Features
+Kailash Web is a clean and responsive informational website built around **Mount Kailash**, a place known for its spiritual, historical, and geographical significance.
 
-- Informational sections covering the history and spiritual significance of Mount Kailash  
-- Route and travel-related guidance  
-- Basic gear and preparation details  
-- FAQ section for commonly asked questions  
+The idea behind this project was simple:  
+to present meaningful information in a **calm, minimal, and user-friendly interface**, while practicing real-world frontend development and deployment.
+
+This is a **frontend-only portfolio project**, created to strengthen my understanding of modern web tools and workflows.
+
+---
+
+## ✨ What this project includes
+
+- Informational sections about Mount Kailash and its significance  
+- Travel routes and basic guidance for visitors  
+- Gear and preparation overview  
+- FAQ section for common questions  
 - Clean and minimal UI design  
-- Fully responsive layout (desktop & mobile)  
-- Dark mode support for better readability  
-- Optimized performance using modern frontend tools  
+- Fully responsive layout for all screen sizes  
+- Dark mode support  
+- Fast loading and optimized performance  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Built With
 
 - **Next.js** – for routing, structure, and performance  
-- **TypeScript** – for safer and more maintainable code  
-- **Tailwind CSS** – for styling and layout  
-- **Component-based architecture**  
-- **Vercel** – for deployment and hosting  
+- **TypeScript** – for better code safety and clarity  
+- **Tailwind CSS** – for styling and responsive design  
+- **Component-based UI approach**  
+- **Vercel** – for production deployment  
 
 ---
 
-## 🚀 Getting Started (Run Locally)
+## 🚀 Running the project locally
 
 Clone the repository:
 
@@ -47,33 +55,29 @@ Start the development server:
 bash
 Copy code
 npm run dev
-Open your browser and visit:
+Open your browser at:
 
 arduino
 Copy code
 http://localhost:3000
-🌍 Live Demo
-🔗 Production Deployment:
-https://kailash-web.vercel.app
+🎯 Why I built this project
+I built this project to:
 
-📌 Why This Project Exists
-This project was built to:
-
-Practice building structured Next.js applications
+Practice structuring a real Next.js application
 
 Improve frontend UI/UX skills
 
-Understand real deployment workflows using Vercel
+Learn how real deployments work with Vercel
 
-Create a meaningful and presentable portfolio project
+Debug real build and configuration issues
 
-Gain confidence debugging real build and deployment issues
+Create a meaningful project for my portfolio and resume
 
 📄 License
-This project is open-source and available for learning and personal use.
+This project is open-source and intended for learning and personal use.
 
 👤 Author
 Mohit
 GitHub: https://github.com/mohitcodes12
 
-If you like the project or find it useful, feel free to star the repository ⭐
+⭐ If you find this project interesting, feel free to star the repository.
