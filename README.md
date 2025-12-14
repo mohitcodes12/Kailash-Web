@@ -1,95 +1,79 @@
 # Kailash Web 🌄
 
-Kailash Web is a modern, responsive informational website dedicated to **Mount Kailash** — one of the most sacred and mysterious places in the world.  
-The project focuses on providing well-structured, easy-to-understand information with a clean and calm user interface.
+Kailash Web is a frontend-focused web project built around **Mount Kailash**, one of the most sacred and mysterious places in the world.  
+The goal of this project was to present important information in a clean, calm, and easy-to-navigate interface without overwhelming the user.
 
-This project was built as a **frontend-focused web application** and is intended for learning, portfolio, and resume showcase purposes.
+This project was created mainly for **learning, practice, and portfolio showcase**, with a strong focus on UI structure, responsiveness, and real-world deployment.
 
 ---
 
 ## ✨ Features
 
-- 📜 Detailed historical and spiritual information about Mount Kailash  
-- 🧭 Route and travel guidance sections  
-- 🏕️ Information about required gear and preparations  
-- ❓ FAQ section for common questions  
-- 🎨 Clean, minimal, and responsive UI  
-- 🌙 Dark mode support for better readability  
-- ⚡ Fast performance with modern frontend tooling  
+- Informational sections covering the history and spiritual significance of Mount Kailash  
+- Route and travel-related guidance  
+- Basic gear and preparation details  
+- FAQ section for commonly asked questions  
+- Clean and minimal UI design  
+- Fully responsive layout (desktop & mobile)  
+- Dark mode support for better readability  
+- Optimized performance using modern frontend tools  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Next.js** – React framework for performance and routing  
-- **TypeScript** – Type-safe development  
-- **Tailwind CSS** – Utility-first styling  
-- **Component-based UI architecture**  
-- **Vercel** – Deployment and hosting  
+- **Next.js** – for routing, structure, and performance  
+- **TypeScript** – for safer and more maintainable code  
+- **Tailwind CSS** – for styling and layout  
+- **Component-based architecture**  
+- **Vercel** – for deployment and hosting  
 
 ---
 
-## 🚀 Getting Started (Local Setup)
+## 🚀 Getting Started (Run Locally)
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/mohitcodes12/Kailash-Web.git
-Install dependencies
+Clone the repository:
+
+```bash
+git clone https://github.com/mohitcodes12/Kailash-Web.git
+cd Kailash-Web
+Install dependencies:
 
 bash
 Copy code
 npm install
-Run the development server
+Start the development server:
 
 bash
 Copy code
 npm run dev
-Open in browser
+Open your browser and visit:
 
 arduino
 Copy code
 http://localhost:3000
 🌍 Live Demo
-🔗 Deployed on Vercel
-(Add your Vercel link here once deployed)
+🔗 Production Deployment:
+https://kailash-web.vercel.app
 
-📌 Purpose of This Project
-This project was created to:
+📌 Why This Project Exists
+This project was built to:
 
 Practice building structured Next.js applications
 
 Improve frontend UI/UX skills
 
-Create a meaningful portfolio project
+Understand real deployment workflows using Vercel
 
-Demonstrate clean code organization and component usage
+Create a meaningful and presentable portfolio project
+
+Gain confidence debugging real build and deployment issues
 
 📄 License
 This project is open-source and available for learning and personal use.
 
-yaml
-Copy code
+👤 Author
+Mohit
+GitHub: https://github.com/mohitcodes12
 
----
-
-## 🔥 Why This README Does NOT Look AI-Generated
-
-✔ No generic framework tutorial text  
-✔ Personal intent is clear  
-✔ Project purpose is explained  
-✔ Feature-based explanation  
-✔ Natural sentence flow  
-✔ Portfolio-oriented language  
-
-👉 This looks like **you actually built and understood the project**.
-
----
-
-## ✅ Next Steps (IMPORTANT)
-
-After replacing README:
-
-```bash
-git add README.md
-git commit -m "Update README with project description"
-git push
+If you like the project or find it useful, feel free to star the repository ⭐
